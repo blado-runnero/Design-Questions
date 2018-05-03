@@ -40,7 +40,6 @@ public class z002_GwwkTrust_2 {
         return all;
     }
 }
-
     static class Kingdom{
         static int ascii[] = new int[255];
         Boolean running_from_ruler = false;
